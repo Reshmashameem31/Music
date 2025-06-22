@@ -9,5 +9,5 @@ This project is a basic subscription pricing layout created using *HTML* and *CS
 
 
 ##  How to view
--Github
+-Github https://github.com/Reshmashameem31/Music
 -live website https://reshmashameem31.github.io/Music/
